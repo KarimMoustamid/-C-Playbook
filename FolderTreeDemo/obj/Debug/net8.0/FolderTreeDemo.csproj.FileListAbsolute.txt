@@ -1,0 +1,14 @@
+/Users/karimmoustamid/Desktop/Study/C#/c-sharp-10-playbook/Sandbox/Sandbox/FolderTreeDemo/obj/Debug/net8.0/FolderTreeDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karimmoustamid/Desktop/Study/C#/c-sharp-10-playbook/Sandbox/Sandbox/FolderTreeDemo/obj/Debug/net8.0/FolderTreeDemo.AssemblyInfoInputs.cache
+/Users/karimmoustamid/Desktop/Study/C#/c-sharp-10-playbook/Sandbox/Sandbox/FolderTreeDemo/obj/Debug/net8.0/FolderTreeDemo.AssemblyInfo.cs
+/Users/karimmoustamid/Desktop/Study/C#/c-sharp-10-playbook/Sandbox/Sandbox/FolderTreeDemo/obj/Debug/net8.0/FolderTreeDemo.csproj.CoreCompileInputs.cache
+/Users/karimmoustamid/Desktop/Study/C#/c-sharp-10-playbook/Sandbox/Sandbox/FolderTreeDemo/bin/Debug/net8.0/FolderTreeDemo
+/Users/karimmoustamid/Desktop/Study/C#/c-sharp-10-playbook/Sandbox/Sandbox/FolderTreeDemo/bin/Debug/net8.0/FolderTreeDemo.deps.json
+/Users/karimmoustamid/Desktop/Study/C#/c-sharp-10-playbook/Sandbox/Sandbox/FolderTreeDemo/bin/Debug/net8.0/FolderTreeDemo.runtimeconfig.json
+/Users/karimmoustamid/Desktop/Study/C#/c-sharp-10-playbook/Sandbox/Sandbox/FolderTreeDemo/bin/Debug/net8.0/FolderTreeDemo.dll
+/Users/karimmoustamid/Desktop/Study/C#/c-sharp-10-playbook/Sandbox/Sandbox/FolderTreeDemo/bin/Debug/net8.0/FolderTreeDemo.pdb
+/Users/karimmoustamid/Desktop/Study/C#/c-sharp-10-playbook/Sandbox/Sandbox/FolderTreeDemo/obj/Debug/net8.0/FolderTreeDemo.dll
+/Users/karimmoustamid/Desktop/Study/C#/c-sharp-10-playbook/Sandbox/Sandbox/FolderTreeDemo/obj/Debug/net8.0/refint/FolderTreeDemo.dll
+/Users/karimmoustamid/Desktop/Study/C#/c-sharp-10-playbook/Sandbox/Sandbox/FolderTreeDemo/obj/Debug/net8.0/FolderTreeDemo.pdb
+/Users/karimmoustamid/Desktop/Study/C#/c-sharp-10-playbook/Sandbox/Sandbox/FolderTreeDemo/obj/Debug/net8.0/FolderTreeDemo.genruntimeconfig.cache
+/Users/karimmoustamid/Desktop/Study/C#/c-sharp-10-playbook/Sandbox/Sandbox/FolderTreeDemo/obj/Debug/net8.0/ref/FolderTreeDemo.dll

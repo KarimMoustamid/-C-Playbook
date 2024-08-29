@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FolderTreeDemo/1.0.0": {
+        "runtime": {
+          "FolderTreeDemo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FolderTreeDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
