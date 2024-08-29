@@ -3,7 +3,7 @@ namespace FolderTreeDemo
     using System.Net.NetworkInformation;
     using System.Reflection;
 
-    public class FolderProcessor
+    public static class FolderProcessor
     {
         public static void DisplayParentName_While(string filePath)
         {
@@ -36,6 +36,25 @@ namespace FolderTreeDemo
                 yield return folder.Name;
                 folder = folder.Parent;
             }
+        }
+
+        // while and for are similar
+        public static IEnumerable<string> EnumParentNames_For(string filePath)
+        {
+            var folder = new DirectoryInfo(Path.GetDirectoryName(filePath));
+            for (; folder != null; folder = folder.Parent)
+            {
+                yield return folder.Name;
+            }
+        }
+        public static IEnumerable<string> DisplayParentName_DoWhile(string filePath)
+        {
+            var folder = new DirectoryInfo(Path.GetDirectoryName(filePath)!);
+            do
+            {
+                yield return folder.Name;
+                folder = folder.Parent;
+            } while (folder != null);
         }
     }
 }
