@@ -12,3 +12,4 @@
 /Users/karimmoustamid/Desktop/Study/C#/c-sharp-10-playbook/Sandbox/Sandbox/FolderTreeDemo/obj/Debug/net8.0/FolderTreeDemo.pdb
 /Users/karimmoustamid/Desktop/Study/C#/c-sharp-10-playbook/Sandbox/Sandbox/FolderTreeDemo/obj/Debug/net8.0/FolderTreeDemo.genruntimeconfig.cache
 /Users/karimmoustamid/Desktop/Study/C#/c-sharp-10-playbook/Sandbox/Sandbox/FolderTreeDemo/obj/Debug/net8.0/ref/FolderTreeDemo.dll
+/Users/karimmoustamid/Desktop/Study/C#/c-sharp-10-playbook/Sandbox/Sandbox/FolderTreeDemo/obj/Debug/net8.0/FolderTreeDemo.sourcelink.json
