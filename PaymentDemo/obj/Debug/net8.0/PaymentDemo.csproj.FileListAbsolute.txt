@@ -1,0 +1,15 @@
+/Users/karimmoustamid/Desktop/Study/C#/c-sharp-10-playbook/Sandbox/Sandbox/PaymentDemo/bin/Debug/net8.0/PaymentDemo
+/Users/karimmoustamid/Desktop/Study/C#/c-sharp-10-playbook/Sandbox/Sandbox/PaymentDemo/bin/Debug/net8.0/PaymentDemo.deps.json
+/Users/karimmoustamid/Desktop/Study/C#/c-sharp-10-playbook/Sandbox/Sandbox/PaymentDemo/bin/Debug/net8.0/PaymentDemo.runtimeconfig.json
+/Users/karimmoustamid/Desktop/Study/C#/c-sharp-10-playbook/Sandbox/Sandbox/PaymentDemo/bin/Debug/net8.0/PaymentDemo.dll
+/Users/karimmoustamid/Desktop/Study/C#/c-sharp-10-playbook/Sandbox/Sandbox/PaymentDemo/bin/Debug/net8.0/PaymentDemo.pdb
+/Users/karimmoustamid/Desktop/Study/C#/c-sharp-10-playbook/Sandbox/Sandbox/PaymentDemo/obj/Debug/net8.0/PaymentDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karimmoustamid/Desktop/Study/C#/c-sharp-10-playbook/Sandbox/Sandbox/PaymentDemo/obj/Debug/net8.0/PaymentDemo.AssemblyInfoInputs.cache
+/Users/karimmoustamid/Desktop/Study/C#/c-sharp-10-playbook/Sandbox/Sandbox/PaymentDemo/obj/Debug/net8.0/PaymentDemo.AssemblyInfo.cs
+/Users/karimmoustamid/Desktop/Study/C#/c-sharp-10-playbook/Sandbox/Sandbox/PaymentDemo/obj/Debug/net8.0/PaymentDemo.csproj.CoreCompileInputs.cache
+/Users/karimmoustamid/Desktop/Study/C#/c-sharp-10-playbook/Sandbox/Sandbox/PaymentDemo/obj/Debug/net8.0/PaymentDemo.sourcelink.json
+/Users/karimmoustamid/Desktop/Study/C#/c-sharp-10-playbook/Sandbox/Sandbox/PaymentDemo/obj/Debug/net8.0/PaymentDemo.dll
+/Users/karimmoustamid/Desktop/Study/C#/c-sharp-10-playbook/Sandbox/Sandbox/PaymentDemo/obj/Debug/net8.0/refint/PaymentDemo.dll
+/Users/karimmoustamid/Desktop/Study/C#/c-sharp-10-playbook/Sandbox/Sandbox/PaymentDemo/obj/Debug/net8.0/PaymentDemo.pdb
+/Users/karimmoustamid/Desktop/Study/C#/c-sharp-10-playbook/Sandbox/Sandbox/PaymentDemo/obj/Debug/net8.0/PaymentDemo.genruntimeconfig.cache
+/Users/karimmoustamid/Desktop/Study/C#/c-sharp-10-playbook/Sandbox/Sandbox/PaymentDemo/obj/Debug/net8.0/ref/PaymentDemo.dll
