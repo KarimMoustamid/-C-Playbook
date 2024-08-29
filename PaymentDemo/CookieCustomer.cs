@@ -28,10 +28,9 @@ public class CookieCustomer
 	public void ValidateName(string value, string paramName)
 	{
 		if (string.IsNullOrWhiteSpace(value))
-        			throw new ArgumentException("Customer name cannot be null or whitespace",paramName);
+			 throw new ArgumentException("Customer name cannot be null or whitespace",paramName);
 	}
 
 	public override string ToString() => $"Customer Id={Id}, Name={Name}";
-
 
 }
