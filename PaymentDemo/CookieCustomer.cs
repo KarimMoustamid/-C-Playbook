@@ -4,7 +4,19 @@ public class CookieCustomer
 {
 	public int Id { get; } // must be > 0
 
-	public string Name { get; } // must contain something
+	// public string Name { get; set; } // must contain something
+
+	private string _name;
+
+	public string Name
+	{
+		get => _name;
+		set
+		{
+			ValidateName(value, nameof(_name));
+			_name = value;
+		}
+	}
 
 	public string? Notes { get; set; }
 
