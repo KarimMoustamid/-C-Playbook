@@ -12,14 +12,23 @@ public class CookieCustomer
 
 	public CookieCustomer(int id, string name, string? notes=null)
 	{
-		if (string.IsNullOrWhiteSpace(name))
-			throw new ArgumentException("Customer name cannot be null or whitespace", nameof(name));
+		ValidateName(name, nameof(name));
 
 		if (id < 0)
-			throw new ArgumentException($"Customer ID must be > 0. Actual value was: {id}", nameof(id));
+			throw BuildInvalidIdException(id, nameof(id));
+
         Id = id;
 		Name = name;
 		Notes = notes;
+	}
+
+	private ArgumentException BuildInvalidIdException(int value, string paramName)
+		=>  new ArgumentException($"Customer ID must be > 0. Actual value was: {value}", paramName);
+
+	public ArgumentException ValidateName(string value, string paramName)
+	{
+		if (string.IsNullOrWhiteSpace(value))
+        			throw new ArgumentException("Customer name cannot be null or whitespace",paramName);
 	}
 
 	public override string ToString() => $"Customer Id={Id}, Name={Name}";
