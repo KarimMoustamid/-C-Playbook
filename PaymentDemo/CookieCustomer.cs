@@ -25,7 +25,7 @@ public class CookieCustomer
 	private ArgumentException BuildInvalidIdException(int value, string paramName)
 		=>  new ArgumentException($"Customer ID must be > 0. Actual value was: {value}", paramName);
 
-	public ArgumentException ValidateName(string value, string paramName)
+	public void ValidateName(string value, string paramName)
 	{
 		if (string.IsNullOrWhiteSpace(value))
         			throw new ArgumentException("Customer name cannot be null or whitespace",paramName);
